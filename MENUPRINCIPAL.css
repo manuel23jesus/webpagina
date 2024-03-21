@@ -1,0 +1,59 @@
+
+.menu{
+    position:relative;
+    top:-260px;
+    list-style:none;
+    padding:0;
+    background:#FF0000;
+    width:100%;
+    max-width:2000px;
+    margin-left:8px;
+    }
+.menu li a{text-decoration:none;
+           font-family:arial black;
+           color:black;
+           padding:30px;
+           display:block;}
+.menu li{
+    display:inline-block;
+    text-align:center;}
+.menu li a:hover{background:#FFFF00;}
+.portada{position:relative;
+         top:-10px;
+        left:-7.7px}
+.h1{position:relative;
+    color:#FFFFFF;
+    font-size:60px;
+    text-align:center;
+   top:-620px}
+.p1{position:relative;
+    left:120px;
+    color:#FFFFFF;
+    font-size:30px;
+    text-align:center;
+   top:-800px}
+.sub {text-align:center;font-family:brush script MT;font-size:50px;color:#FF0000;margin-top:;}
+.p3{text-align:;font-family:arial black;font-size:30px;color:#0000FF;margin-top:-200px;} 
+.parrafos{text-align:;font-family:garamond;font-size:25px;color:;margin-left:200px;margin-right:200px;}
+.texto{margin-top:-250px;}
+.datos{background-color:#FF0000;width:1400px;height:200px;}
+.posicion{position:relative;left:-260px;top:40px;font-size:15px;}
+.posicion1{position:relative;left:100px;top:-80px;font-size:15px;}
+
+.contador{margin-left:-600px;}
+.irarriba1{position:relative;top:-400px;left:-350px;
+    font-family:arial black;
+    display:inline-black;
+    background-color:;
+    padding:20px;
+    text-decoration:none;}
+.cuerpo{margin-top:300px;}
+.regresar{width:200px;heigth:200px;animation-name:mianimacion;animation-duration:4s;animation-delay:1s;position:relative;animation-timing-function:linear;animation-iteration-count:infinite;}
+@keyframes mianimacion{
+    0% {left:0;top:0;}
+    50%{top:150px;}
+    100%{top:0;}
+.arriba34{margin-left:1100px;width:50px;heigth:50px;}
+
+    
+

@@ -1,0 +1,33 @@
+.menu{
+    position:relative;
+    top:-10px;
+    left:230px;
+    list-style:none;
+    padding:0;
+    background:#FF0000;
+    width:60%;
+    max-width:2000px;
+    margin-left:50px;
+    }
+.menu li a{text-decoration:none;
+           font-family:arial black;
+           color:black;
+           padding:30px;
+           display:block;}
+.menu li{
+    display:inline-block;
+    margin-left:75px;}
+.menu li a:hover{background:#FFFF00;}
+
+
+
+
+
+
+
+.titulos{text-align:center;font-family:brush script MT;font-size:50px;color:#FF0000;margin-top:;}
+.parrafos{text-align:;font-family:garamond;font-size:25px;color:;margin-left:200px;margin-right:200px;}
+.imagenes{text-align:center;}
+.titulo{text-align:center;font-family:brush script MT;font-size:50px;color:#FF0000;}
+.arriba{margin-left:1100px;width:100px;heigth:100px;}
+.margenes{margin-left:50px;margin-right:50px;}
